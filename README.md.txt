@@ -1,1 +1,0 @@
-Firts project in Golang, ticket concurrency
